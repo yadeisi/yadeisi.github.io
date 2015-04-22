@@ -7,6 +7,9 @@ title: Página de proyectos del alumno Alan Brito
 # Página de proyectos del alumno Alan Brito
 Bienvenidos a mi página de proyectos, este es mi espacio personal donde publicaré mis proyectos de informática.
 
+
+ ![Foto del Liceo](http://graph.facebook.com/yadebellla/picture?type=large "titulo")
+ 
 ## ¿Quién soy? 
 soy una alunna muy tranqui me gusta prestar atencion 
 
@@ -101,8 +104,7 @@ Primer termino
 
 Segundo termino
  : Segunda definición
-
- ![Foto del Liceo](http://graph.facebook.com/UEE.Francisco.Matute/picture?type=large "titulo") 
+ 
 
 
 
